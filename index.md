@@ -6,7 +6,7 @@
 - [SVC/Storwize upgrade planning](https://www-01.ibm.com/support/docview.wss?uid=ssg1S1005283)
 - [Flashsytem code recommendations](https://www-01.ibm.com/support/docview.wss?uid=ssg1S1009645)
 - [VIOS levels](https://www-304.ibm.com/support/customercare/sas/f/vios/home.html)
-- [Performance capacilities reference](https://www-03.ibm.com/systems/resources/systems_power_software_i_perfmgmt_pcrm_feb2018.pdf)
+- [Performance capacilities reference](https://www.ibm.com/downloads/cas/LGMXGGPJ)
 - [ESS](http://www.ibm.com/eserver/ess)
 - [IBM i DB2 Services](https://www.ibm.com/support/pages/node/1119123)
 - [IBM i technology refresh](https://www.ibm.com/support/pages/node/1119129/)
